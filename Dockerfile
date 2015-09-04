@@ -1,6 +1,6 @@
 FROM ubuntu:14.04
 
-MAINTAINER Angel Dimitrov <angel@sourcestream.de>
+MAINTAINER Volkan Selcuk <volkan.selcuk@gmail.com>
 
 # install main dependencies
 RUN apt-get update
